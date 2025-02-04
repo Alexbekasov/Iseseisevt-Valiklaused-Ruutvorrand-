@@ -142,3 +142,5 @@ elif D == 0:
     print("Один корень:", round(x, 2))
 else:
     print("Нету корней")
+
+
